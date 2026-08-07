@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
