@@ -5,27 +5,6 @@ class Solution(object):
         :rtype: int
         """
         
-        # lmax
-        # rmax
-
-        # water = 0
-        # s = len(height)
-        # i = 1
-        # while i < s-1:
-
-        #     lmax = max(height[0:i])
-        #     rmax = max(height[i+1:s])
-        #     units = min(lmax,rmax)
-
-        #     curr = (units - height[i]) if units > height[i] else 0 
-
-        #     water += curr
-
-        #     i += 1
-        #     # print(water)
-
-        # return water
-
         n = len(height)
         if n == 0:
             return 0
