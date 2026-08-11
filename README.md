@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Math
 |  |
@@ -68,4 +70,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
