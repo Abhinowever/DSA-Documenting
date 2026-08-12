@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Abhinowever/DSA-Documenting/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Abhinowever/DSA-Documenting/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## String
 |  |
