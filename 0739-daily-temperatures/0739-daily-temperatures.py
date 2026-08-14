@@ -15,6 +15,3 @@ class Solution(object):
             stack.append(i)
 
         return arr
-
-
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
