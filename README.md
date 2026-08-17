@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0011-container-with-most-water) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Number Theory
 |  |
