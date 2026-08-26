@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+
         j = 2 
         for i in range(2,len(nums)):
             if nums[i] != nums[j-2]:
