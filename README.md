@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abhinowever/DSA-Documenting/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
