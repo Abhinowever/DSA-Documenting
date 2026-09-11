@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Abhinowever/DSA-Documenting/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinowever/DSA-Documenting/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinowever/DSA-Documenting/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhinowever/DSA-Documenting/tree/master/2073-time-needed-to-buy-tickets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinowever/DSA-Documenting/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Abhinowever/DSA-Documenting/tree/master/0055-jump-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinowever/DSA-Documenting/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
