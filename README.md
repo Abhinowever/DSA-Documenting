@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Abhinowever/DSA-Documenting/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Abhinowever/DSA-Documenting/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Abhinowever/DSA-Documenting/tree/master/0739-daily-temperatures) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Abhinowever/DSA-Documenting/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Abhinowever/DSA-Documenting/tree/master/0605-can-place-flowers) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Number Theory
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abhinowever/DSA-Documenting/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinowever/DSA-Documenting/tree/master/1004-max-consecutive-ones-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
