@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Abhinowever/DSA-Documenting/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Abhinowever/DSA-Documenting/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinowever/DSA-Documenting/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinowever/DSA-Documenting/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhinowever/DSA-Documenting/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+| [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinowever/DSA-Documenting/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Math
