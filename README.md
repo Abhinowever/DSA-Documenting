@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinowever/DSA-Documenting/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Abhinowever/DSA-Documenting/tree/master/0443-string-compression) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Abhinowever/DSA-Documenting/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
 | ------- |
