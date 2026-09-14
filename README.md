@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhinowever/DSA-Documenting/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinowever/DSA-Documenting/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhinowever/DSA-Documenting/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhinowever/DSA-Documenting/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/Abhinowever/DSA-Documenting/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Math
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhinowever/DSA-Documenting/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhinowever/DSA-Documenting/tree/master/0048-rotate-image) |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
 ## Algorithm X
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhinowever/DSA-Documenting/tree/master/2073-time-needed-to-buy-tickets) |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
 ## Design
 |  |
 | ------- |
