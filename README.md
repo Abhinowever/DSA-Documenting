@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Abhinowever/DSA-Documenting/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/Abhinowever/DSA-Documenting/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhinowever/DSA-Documenting/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Abhinowever/DSA-Documenting/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhinowever/DSA-Documenting/tree/master/1004-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhinowever/DSA-Documenting/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/Abhinowever/DSA-Documenting/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Abhinowever/DSA-Documenting/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhinowever/DSA-Documenting/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Abhinowever/DSA-Documenting/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhinowever/DSA-Documenting/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhinowever/DSA-Documenting/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
