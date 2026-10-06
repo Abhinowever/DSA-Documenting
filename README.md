@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Abhinowever/DSA-Documenting/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Abhinowever/DSA-Documenting/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Abhinowever/DSA-Documenting/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Abhinowever/DSA-Documenting/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0084-largest-rectangle-in-histogram) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Abhinowever/DSA-Documenting/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Abhinowever/DSA-Documenting/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
