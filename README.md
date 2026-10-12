@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/Abhinowever/DSA-Documenting/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Abhinowever/DSA-Documenting/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinowever/DSA-Documenting/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhinowever/DSA-Documenting/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhinowever/DSA-Documenting/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhinowever/DSA-Documenting/tree/master/2352-equal-row-and-column-pairs) |
 ## Algorithm X
 |  |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhinowever/DSA-Documenting/tree/master/0334-increasing-triplet-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
