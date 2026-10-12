@@ -4,24 +4,26 @@ class Solution(object):
         :type grid: List[List[str]]
         :rtype: int
         """
-        if not grid:
-            return 0
-        l,m = len(grid),len(grid[0])
-        visited = [[0 for _ in range(m)] for _ in range(l)]
-        islands = 0
-        def dfs(i,j):
-            visited[i][j] = True
-            directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]    
-            for di, dj in directions:
-                ni, nj = i + di, j + dj
-                if 0 <= ni < l and 0 <= nj < m :
-                    if grid[ni][nj] == '1' and not visited[ni][nj]:
-                        dfs(ni, nj)
+        raws, columns = len(grid), len(grid[0])
 
-        for i in range(l):
-            for j in range(m):
-                if grid[i][j] == '1' and not visited[i][j] :
-                    dfs(i,j)
-                    islands += 1
+        def dfs(i, j):
+            if grid[i][j] != '1':
+                return 
+            grid[i][j] = '0'
+            if i>0:             #up
+                dfs(i-1,j)
+            if j<(columns-1):   #right
+                dfs(i, j+1)
+            if i<(raws-1):      #down
+                dfs(i+1,j)
+            if j>0:             #left
+                dfs(i,j-1)
 
-        return islands
+        count = 0    
+        for i in range(raws):
+            for k in range(columns):
+                if grid[i][k] == '1':
+                    dfs(i, k)
+                    count+=1
+
+        return count
