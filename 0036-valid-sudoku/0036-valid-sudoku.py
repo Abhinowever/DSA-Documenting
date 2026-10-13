@@ -4,37 +4,23 @@ class Solution(object):
         :type board: List[List[str]]
         :rtype: bool
         """
+        rows = [set() for _ in range(9)]
+        columns = [set() for _ in range(9)]
+        boxes = [set() for _ in range(9)]
 
-        for row in range(9):
-            seen = set()
-            for i in range(9):
-                if board[row][i] == ".":
+        for r in range(9):
+            for c in range(9):
+                i = board[r][c]
+                if i == "." :
                     continue
-                if board[row][i] in seen:
-                    return False
-                seen.add(board[row][i])
-
-        
-        for col in range(9):
-            seen = set()
-            for i in range(9):
-                if board[i][col] == ".":
-                    continue
-                if board[i][col] in seen:
-                    return False
-                seen.add(board[i][col])
                 
+                box = r//3 * 3 + c//3
 
-        for square in range(9):
-            seen = set()
-            for i in range(3):
-                for j in range(3):
-                    row = (square // 3) * 3 + i
-                    col = (square % 3) * 3 + j
-                    if board[row][col] == ".":
-                        continue
-                    if board[row][col] in seen:
-                        return False
-                    seen.add(board[row][col])
+                if (i in rows[r]) or ( i in columns[c] ) or ( i in boxes[box]) :
+                    return False
+                
+                rows[r].add(i)
+                columns[c].add(i)
+                boxes[box].add(i)
 
         return True
