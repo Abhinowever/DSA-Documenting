@@ -1,4 +1,4 @@
-from collections import Counter
+# from collections import Counter
 class Solution(object):
     def isAnagram(self, s, t):
         """
@@ -6,6 +6,9 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        total_s = Counter(s)
-        total_t = Counter(t)
-        return total_s == total_t
+        if len(s) != len(t):
+            return False
+        for i in set(t):
+            if s.count(i) != t.count(i):
+                return False
+        return True
