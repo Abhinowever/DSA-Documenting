@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhinowever/DSA-Documenting/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhinowever/DSA-Documenting/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Abhinowever/DSA-Documenting/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Abhinowever/DSA-Documenting/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Abhinowever/DSA-Documenting/tree/master/0443-string-compression) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhinowever/DSA-Documenting/tree/master/1657-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
