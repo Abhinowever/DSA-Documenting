@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Abhinowever/DSA-Documenting/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Abhinowever/DSA-Documenting/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhinowever/DSA-Documenting/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhinowever/DSA-Documenting/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Abhinowever/DSA-Documenting/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/Abhinowever/DSA-Documenting/tree/master/1207-unique-number-of-occurrences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Abhinowever/DSA-Documenting/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhinowever/DSA-Documenting/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abhinowever/DSA-Documenting/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhinowever/DSA-Documenting/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Abhinowever/DSA-Documenting/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Abhinowever/DSA-Documenting/tree/master/0443-string-compression) |
