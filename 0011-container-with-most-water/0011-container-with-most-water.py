@@ -4,14 +4,16 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        l,r = 0,len(height)-1
-        water = []
-        while l<r :
-            water.append(min(height[l],height[r])*(r-l))
-            if height[l] > height[r]:
-                r -= 1
-            else :
-                l += 1
-        # print(water)
-        return max(water)
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
+        l = len(height)
+        left,right = 0,l-1
+        max_area = current_area = 0
+        while left < right :
+            minimum = min(height[left],height[right])
+            current_area = minimum * (right - left)
+            if current_area > max_area :
+                max_area = current_area
+            if height[left] > height[right]:
+                right -= 1
+            else:
+                left += 1
+        return max_area
