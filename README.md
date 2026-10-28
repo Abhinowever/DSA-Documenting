@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinowever/DSA-Documenting/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinowever/DSA-Documenting/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhinowever/DSA-Documenting/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Abhinowever/DSA-Documenting/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/0226-invert-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Abhinowever/DSA-Documenting/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
