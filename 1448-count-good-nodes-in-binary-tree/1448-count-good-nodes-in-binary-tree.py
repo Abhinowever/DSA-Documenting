@@ -11,20 +11,19 @@ class Solution(object):
         :type root: TreeNode
         :rtype: int
         """
-        def dfs(root,maxx):
+        if not root :
+            return 0
 
+        def dfs(root,maxx):
             if not root :
                 return 0
+            good = 0
+            if root.val >= maxx:
+                maxx = root.val
+                good = 1 
 
-            good = 1 if root.val >= maxx else 0
-            maxx = max(maxx,root.val)
-
-            good += dfs(root.right,maxx)
-            good += dfs(root.left,maxx)
-
-            return good
+            return good + dfs(root.right,maxx) + dfs(root.left,maxx)        
         
         return dfs(root,root.val)
 
 
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
